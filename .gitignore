@@ -6,6 +6,8 @@ packages/*/public/share
 nohup.out
 .venv
 
+build
+
 # yarn https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
 .yarn/*
 !.yarn/releases
